@@ -1,0 +1,10 @@
+<html>
+<body>
+
+<form action="session.php" method="post">
+Book Process: <input type="text" name="name"><br>
+<input type="submit">
+</form>
+
+</body>
+</html>
